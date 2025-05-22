@@ -22263,7 +22263,14 @@ Work Section
   top: -18px;
 }
 
+.fa-bolt::before {
+    content: "\26a1" !important;
+}
 
+.fa-bolt::before
+ {
+    content: "\26a1" !important;
+}
 
 
 
