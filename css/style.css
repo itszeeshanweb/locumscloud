@@ -22267,10 +22267,7 @@ Work Section
     content: "\26a1" !important;
 }
 
-.fa-bolt::before
- {
-    content: "\26a1" !important;
+.fa-crown::before {
+    content: "\1f451" !important;
 }
-
-
 
